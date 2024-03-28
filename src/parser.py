@@ -2,7 +2,7 @@ import PyPDF2
 import re
 # Open the PDF file in read-binary mode
 array = []
-
+data = []
 result_data = {
     "start" : 0,
     "end" : 0,
